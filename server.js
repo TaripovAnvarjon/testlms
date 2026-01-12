@@ -7,7 +7,7 @@ const app = express();
 
 // ========================================================
 // ⚙️ SOZLAMALAR
-const MY_SERVER_URL = "https://server-xkuu.onrender.com"; // Render manzilingiz!
+const MY_SERVER_URL = "https://testlms-i3fn.onrender.com"; // Render manzilingiz!
 const ADMIN_PASSWORD = "8908"; 
 // ========================================================
 
